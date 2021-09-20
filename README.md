@@ -2,8 +2,8 @@
 
 
 I am Junior Developer from India.
-- 🌱 I’m currently learning [Rust Programming Language](https://www.rust-lang.org/)
-- 📫 How to reach me: [nerd#1337]() or chirag.singla.pi@gmail.com
+- 🌱 I’m currently learning [OpenGl](https://en.wikipedia.org/wiki/OpenGL)
+- 📫 How to reach me: chirag.singla.pi@gmail.com
 
 Checkout out my wakatime profile at [@chirag_droid](https://wakatime.com/@chirag_droid)
 
