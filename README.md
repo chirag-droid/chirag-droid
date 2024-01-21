@@ -4,11 +4,9 @@ Hi 👋 My name is Chirag Singla
 Fullstack web developer and Android modder
 ------------------------------------------
 
-I've been coding since I was 12 and it soon became my goto hobby. I am on break due JEE exam.
-
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [chirag.singla.pi@gmail.com](mailto:chirag.singla.pi@gmail.com)
-*   🧠  I'm learning Next.Js, Prompt Engineering
+*   🧠  I'm learning Rust, Vulkan Api
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
