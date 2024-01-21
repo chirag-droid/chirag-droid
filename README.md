@@ -17,3 +17,15 @@ I am passionate about [Rust](https://www.rust-lang.org/) and React ecosystem. I 
 ### Learning
 
 - [NexOS](https://github.com/chirag-droid/NexOS) An OS written in pure rust. I have written an UEFI bootloader with a nice UI. will develop as I learn more about OS development.
+ 
+### Badges
+
+<a href="https://github.com/chirag-droid">
+  <img align="center" src="https://github.com/chirag-droid/github-stats/blob/master/generated/overview.svg" alt="Chirag's GitHub Status" />
+</a>
+
+<a href="https://github.com/chirag-droid">
+  <img align="center" src="https://github.com/chirag-droid/github-stats/blob/master/generated/languages.svg"/>
+</a>
+
+> Checkout [jstrieb/github-stats](https://github.com/jstrieb/github-stats) to make Github stats images for your profile
