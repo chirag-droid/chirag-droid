@@ -1,45 +1,19 @@
-Hi 👋 My name is Chirag Singla
-==============================
+### Hi 👋 I am Chirag
 
-Fullstack web developer and Android modder
-------------------------------------------
+I am passionate about [Rust](https://www.rust-lang.org/) and React ecosystem. I am currently learning about GpGPU, Vulkan Graphics API. And experimenting things that can be possible with rust.
 
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [chirag.singla.pi@gmail.com](mailto:chirag.singla.pi@gmail.com)
-*   🧠  I'm learning Rust, Vulkan Api
-*   🤝  I'm open to collaborating on interesting projects
+### Projects
 
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-                    
-### Socials
-                  
-                  
-<p align="left">    
-<a href="https://www.github.com/chirag-droid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>   
-<a href="https://www.twitter.com/chiragdroid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>             
- <a href="https://www.youtube.com/c/chiragsingla." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
- 
-### Badges
+- [OpenMapsApi](https://openmapsapi.up.railway.app/) WIP. Simplifies use of maps and navigation in your apps without using proprietary software.
+- [Animeflix](https://github.com/chirag-droid/animeflix) A self hosted solution for streaming and finding animes with a nice UI.
+- [Anime-cli](https://github.com/chirag-droid/anime-cli) A python cli to stream animes from your terminal without having to navigate through fishy websites.
+- [setup-ccache](https://github.com/marketplace/actions/setup-ccache-windows-linux-macos) A github CI action workflow to setup and cache ccache results to speedup compile times for your projects.
+- [rplace](https://github.com/r/rplace) A script to automate r/place event hosted by reddit.
 
-<a href="https://github.com/chirag-droid">
-  <img align="center" src="https://github.com/chirag-droid/github-stats/blob/master/generated/overview.svg" alt="Chirag's GitHub Status" />
-</a>
+### Forks
 
-<a href="https://github.com/chirag-droid">
-  <img align="center" src="https://github.com/chirag-droid/github-stats/blob/master/generated/languages.svg"/>
-</a>
+- [Walnut](https://github.com/chirag-droid/Walnut) A fork of [studiocherno/walnut](https://github.com/studiocherno/walnut) to support cross platform via cmake. Examples included in /examples
 
-> Checkout [jstrieb/github-stats](https://github.com/jstrieb/github-stats) to make Github stats images for your profile
+### Learning
+
+- [NexOS](https://github.com/chirag-droid/NexOS) An OS written in pure rust. I have written an UEFI bootloader with a nice UI. will develop as I learn more about OS development.
