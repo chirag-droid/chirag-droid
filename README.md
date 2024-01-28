@@ -4,11 +4,15 @@ I am passionate about [Rust](https://www.rust-lang.org/) and React ecosystem. I 
 
 ### Projects
 
-- [OpenMapsApi](https://openmapsapi.up.railway.app/) WIP. Simplifies use of maps and navigation in your apps without using proprietary software.
 - [Animeflix](https://github.com/chirag-droid/animeflix) A self hosted solution for streaming and finding animes with a nice UI.
 - [Anime-cli](https://github.com/chirag-droid/anime-cli) A python cli to stream animes from your terminal without having to navigate through fishy websites.
+- [OpenMapsApi](https://openmapsapi.up.railway.app/) WIP. Simplifies use of maps and navigation in your apps without using proprietary software.
 - [setup-ccache](https://github.com/marketplace/actions/setup-ccache-windows-linux-macos) A github CI action workflow to setup and cache ccache results to speedup compile times for your projects.
 - [rplace](https://github.com/r/rplace) A script to automate r/place event hosted by reddit.
+
+### Working On
+
+- [Render3D](https://github.com/chirag-droid/Render3D) ⚠️ C++ 3D renderer using Vulkan APIs that converts your lua scripts to render.
 
 ### Forks
 
