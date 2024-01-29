@@ -12,7 +12,7 @@ I am passionate about [Rust](https://www.rust-lang.org/) and React ecosystem. I 
 
 ### Working On
 
-- [Render3D](https://github.com/chirag-droid/Render3D) ⚠️ C++ 3D renderer using Vulkan APIs that converts your lua scripts to render.
+- [Render3D](https://github.com/chirag-droid/Render3D) ⚠️ C++ 3D renderer using Vulkan APIs that converts your lua scripts to video.
 
 ### Forks
 
