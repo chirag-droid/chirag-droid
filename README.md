@@ -4,7 +4,7 @@ I am passionate about [Rust](https://www.rust-lang.org/) and React ecosystem. I 
 
 ### Projects
 
-- [KeyLoggr](https://github.com/chirag-droid/KeyLoggr) A minimal open-source keystroke visualizer for Windows with C++
+- [KeyLoggr](https://github.com/chirag-droid/KeyLoggr) A minimal open-source keystroke visualizer for Windows in C++
 - [Animeflix](https://github.com/chirag-droid/animeflix) A self hosted solution for streaming and finding animes with a nice UI.
 - [Anime-cli](https://github.com/chirag-droid/anime-cli) A python cli to stream animes from your terminal without having to navigate through fishy websites.
 - [OpenMapsApi](https://openmapsapi.up.railway.app/) WIP. Simplifies use of maps and navigation in your apps without using proprietary software.
