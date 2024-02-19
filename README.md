@@ -4,6 +4,7 @@ I am currently learning about GpGPU, Vulkan Graphics API. And experimenting thin
 
 ### Projects
 
+- [Malware](https://github.com/chirag-droid/Malware) A windows malware that installs without admin privileges and causes a bsod when you log in.
 - [KeyLoggr](https://github.com/chirag-droid/KeyLoggr) A minimal open-source keystroke visualizer for Windows in C++ using win32
 - [Animeflix](https://github.com/chirag-droid/animeflix) A self hosted solution for streaming and finding animes with a nice UI.
 - [Anime-cli](https://github.com/chirag-droid/anime-cli) A python cli to stream animes from your terminal without having to navigate through fishy websites.
