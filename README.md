@@ -1,7 +1,5 @@
 ### Hi 👋 I am Chirag
 
-I am currently learning about GpGPU, Vulkan Graphics API. And experimenting things that can be possible with rust.
-
 ### Projects
 
 - [Animeflix](https://github.com/chirag-droid/animeflix) A self hosted solution for streaming and finding animes with a nice UI.
